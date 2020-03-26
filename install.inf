@@ -1,6 +1,6 @@
 [info]
-title=Linter for Go, using gometalint
-desc=Linter for CudaLint, adds support for Go lexer, using gometalint tool
+title=Linter for Go, using gometalinter
+desc=Linter for CudaLint, adds support for Go lexer, using gometalinter
 type=cudatext-plugin
-subdir=cuda_lint_gometalint
-homepage=https://github.com/CudaText-addons/cuda_lint_gometalint
+subdir=cuda_lint_gometalinter
+homepage=https://github.com/CudaText-addons/cuda_lint_gometalinter
